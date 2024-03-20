@@ -15,5 +15,6 @@ int main() {
         printf("Rob scored higher marks than Bob\n");
     } else if (r == b) {
         printf("Bob & Rob both scored the same");
+        return 0;
     }
 }
